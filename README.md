@@ -36,4 +36,4 @@ A Fiori application.
 
 # FIORI-PROJECT
 # HELLOSAP
-# SAP
+# SAP Businnes application studio
